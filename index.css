@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: #F4F4F4;
+    background-color: #f3e6f2;
     font-family: "Inter", sans-serif;
     text-align: center;
 }
@@ -35,7 +35,7 @@ p {
 input {
     width: 117px;
   height: 83px;
-  background-color: #6943FF;
+  background-color: #eceef2;
   border-radius: 8px;
   text-align: center;
   border: solid 2px #B295FF;
@@ -71,7 +71,7 @@ button:hover {
     padding-top: 33px;
     width: auto;
     height: 270px;
-    background-color: #6943FF;
+    background-color: #8a7fb4;
 }
 
 #container-units{
